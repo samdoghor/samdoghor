@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdoghor&label=Profile%20views&color=274472&style=for-the-badge" alt="samdoghor" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samdoghor" alt="samdoghor" /></a> </p>
 -->
-<p align="left"> <a href="https://twitter.com/samdoghor" target="blank"><img src="https://img.shields.io/twitter/follow/samdoghor?color=%23111111&logo=twitter&style=plastic" alt="samdoghor" /></a> </p>
+<p align="left"> <a href="https://twitter.com/samdoghor" target="blank"><img src="https://img.shields.io/twitter/follow/samdoghor?color=%23111111&logo=twitter&style=for-the-badge" alt="samdoghor" /></a> </p>
 
-<p align="left"> <a href="https://stackoverflow.com/users/11887267/doghor-samuel" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/11887267?color=%23111111&logo=stackoverflow&style=for-the-badge" alt="samdoghor" /></a> </p>
+<p align="left"> <a href="https://stackoverflow.com/users/11887267/doghor-samuel" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/11887267?color=%23111111&logo=stackoverflow&style=plastic" alt="samdoghor" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs**
 
