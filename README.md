@@ -6,8 +6,6 @@
 -->
 <p align="left"> <a href="https://twitter.com/samdoghor" target="blank"><img src="https://img.shields.io/twitter/follow/samdoghor?color=%23111111&logo=twitter&style=for-the-badge" alt="samdoghor" /></a> </p>
 
-<p align="left"> <a href="https://stackoverflow.com/users/11887267/doghor-samuel" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/11887267?color=%23111111&logo=stackoverflow&style=for-the-badge" alt="samdoghor" /></a> </p>
-
 - 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **Python**
