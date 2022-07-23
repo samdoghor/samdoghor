@@ -22,9 +22,15 @@
 </p>
 
 <h3 align="left">Github Cards:</h3>
+<<<<<<< HEAD
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samdoghor&show_icons=true&locale=en&layout=compact" alt="samdoghor" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samdoghor&show_icons=true&locale=en" alt="samdoghor" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samdoghor&" alt="samdoghor" /></p>
+=======
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samdoghor&show_icons=true&locale=en&layout=compact" alt="samdoghor"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samdoghor&show_icons=true&locale=en" alt="samdoghor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samdoghor&" alt="samdoghor"  /></p>
+>>>>>>> b4e93445550e92e683e0707b446e67530ae44cdc
 
 <!--
 **samdoghor/samdoghor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
