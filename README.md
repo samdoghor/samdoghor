@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Doghor</h1>
 <h3 align="center">I'm a Backend Web Developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samdoghor&label=Profile%20views&color=274472&style=for-the-badge" alt="samdoghor" /> </p>
+<br/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdoghor&label=Profile%20views&color=274472&style=for-the-badge" alt="samdoghor" /> </p>
 
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samdoghor" alt="samdoghor" /></a> </p>
--->
 
-<p align="left"> <a href="https://twitter.com/samdoghor" target="blank"><img src="https://img.shields.io/twitter/follow/samdoghor?color=%23111111&logo=twitter&style=for-the-badge" alt="samdoghor" /></a> </p>
+<br/> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samdoghor" alt="samdoghor" /></a> </p>
+
+
+<p align="left"> <a href="https://twitter.com/samdoghor" target="blank"><img src="https://img.shields.io/twitter/follow/samdoghor?color=%23111111&logo=twitter&style=for-the-badge" alt="samdoghor" /></a> </p> <br/>
 
 - 🌱 I’m currently learning **Reactjs**
 
