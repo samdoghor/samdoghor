@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdoghor&label=Profile%20views&color=274472&style=for-the-badge" alt="samdoghor" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samdoghor" alt="samdoghor" /></a> </p>
 -->
-<h4 align="left"> <a href="https://twitter.com/samdoghor" target="blank"><img src="https://img.shields.io/twitter/follow/samdoghor?logo=twitter&style=for-the-badge" alt="samdoghor" /></a> </h4>
+<p align="left"> <a href="https://twitter.com/samdoghor" target="blank"><img src="https://img.shields.io/twitter/follow/samdoghor?logo=twitter&style=for-the-badge" alt="samdoghor" /></a> </p>
 
-<h4 align="left"> <a href="https://stackoverflow.com/users/11887267" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/11887267?color=%23111111" alt="samdoghor" /></a> </h4>
+<p align="left"> <a href="https://stackoverflow.com/users/11887267" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/11887267?color=%23111111" alt="samdoghor" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs**
 
