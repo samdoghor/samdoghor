@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doghor</h1>
-<h3 align="center">I'm a Full Stack Web Developer from Nigeria</h3>
+<h3 align="center">I'm a Backend Web Developer from Nigeria</h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdoghor&label=Profile%20views&color=274472&style=for-the-badge" alt="samdoghor" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samdoghor" alt="samdoghor" /></a> </p>
@@ -21,9 +21,9 @@
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samdoghor&show_icons=true&locale=en&layout=compact" alt="samdoghor" /></p>
 -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samdoghor&show_icons=true&locale=en" alt="samdoghor" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samdoghor&show_icons=true&locale=en" alt="samdoghor" width="50%"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samdoghor&" alt="samdoghor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samdoghor&" alt="samdoghor" width="50%" /></p>
 
 <!--
 **samdoghor/samdoghor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
