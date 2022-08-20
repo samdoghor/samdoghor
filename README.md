@@ -2,7 +2,8 @@
 <h3 align="center">I'm a Full Stack Developer from Nigeria</h3>
 
 <br/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdoghor&label=Profile%20views&color=274472&style=for-the-badge" alt="samdoghor" /> </p>
-<p align="left"> <a href="hhttps://stackoverflow.com/users/11887267/" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/11887267?color=%23111111&logoColor=%23000000&style=for-the-badge" alt="samdoghor" /></a> </p> 
+<p align="left"> <a href="https://stackoverflow.com/users/11887267/" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/11887267?color=%23111111&logoColor=%23000000&style=for-the-badge" alt="samdoghor" /></a> </p> 
+<p align="left"> <a href="hhttps://wakatime.com/" target="blank"><img src="https://wakatime.com/badge/user/cce03cc6-7797-4c7d-923b-3cd63b1744ea.svg?color=%23111111&logoColor=%23000000&style=for-the-badge" alt="samdoghor" /></a> </p> 
 <p align="left"> <a href="https://twitter.com/samdoghor" target="blank"><img src="https://img.shields.io/twitter/follow/samdoghor?color=%23111111&logo=twitter&style=for-the-badge" alt="samdoghor" /></a> </p> 
 
 
@@ -26,7 +27,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samdoghor&show_icons=true&locale=en&layout=compact" alt="samdoghor" /></p> <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samdoghor&show_icons=true&locale=en" alt="samdoghor" /></p> <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samdoghor&" alt="samdoghor" /></p>
-
 
 <br/><h3 align="left">Languages and Tools:</h3>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/> </a>
