@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Doghor</h1>
-<h3 align="center">I'm a Backend Web Developer from Nigeria</h3>
+<h3 align="center">I'm a Full Stack Developer from Nigeria</h3>
 
 <br/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdoghor&label=Profile%20views&color=274472&style=for-the-badge" alt="samdoghor" /> </p>
+<p align="left"> <a href="hhttps://stackoverflow.com/users/11887267/" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/11887267?color=%23111111&logoColor=%23000000&style=for-the-badge" alt="samdoghor" /></a> </p> 
 <p align="left"> <a href="https://twitter.com/samdoghor" target="blank"><img src="https://img.shields.io/twitter/follow/samdoghor?color=%23111111&logo=twitter&style=for-the-badge" alt="samdoghor" /></a> </p> 
 
 
 <br/> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samdoghor" alt="samdoghor" /></a> </p> <br/> 
 
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Reactjs & AWS Machine Learning**
 
 - 💬 Ask me about **Python**
 
@@ -28,6 +29,7 @@
 
 
 <br/><h3 align="left">Languages and Tools:</h3>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS-3" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
