@@ -1,3 +1,5 @@
+<img align="center" alt="Hello World!" width="800" src="https://www.samdoghor.com/hello_world" />
+
 <h1 align="center">Hi 👋, I'm Doghor</h1>
 <h3 align="center">I'm a Full Stack Developer from Nigeria</h3>
 
@@ -13,6 +15,8 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **talkto@samdoghor.com**
+
+- 👯 I’m looking to collaborate on **open source projects that contribute to the community growth**
 
 <br/><h3 align="left">Connect with me:</h3>
 <p align="left">
