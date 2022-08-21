@@ -1,4 +1,4 @@
-<p align="center"> <img style="display: block; margin-left: auto; margin-right: auto;" alt="Hello World!" width="600" src="https://www.samdoghor.com/hello_world" />  </p>
+<p align="center"> <img style="display: block; margin-left: auto; margin-right: auto;" alt="Hello World!" width="800" src="https://www.samdoghor.com/hello_world" />  </p>
 
 <h1 align="center">Hi 👋, I'm Doghor</h1>
 <h3 align="center">I'm a Full Stack Developer from Nigeria</h3>
