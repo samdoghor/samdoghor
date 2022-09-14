@@ -1,7 +1,7 @@
 <p align="center"> <img style="display: block; margin-left: auto; margin-right: auto;" alt="Hello World!" width="800" src="https://www.samdoghor.com/hello_world" />  </p>
 
 <h1 align="center">Hi 👋, I'm Doghor</h1>
-<h3 align="center">I'm a Full Stack Developer from Nigeria</h3>
+<h3 align="center">I'm a Backend Developer from Nigeria</h3>
 
 <br/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdoghor&label=Profile%20views&color=274472&style=for-the-badge" alt="samdoghor" /> </p>
 <p align="left"> <a href="https://twitter.com/samdoghor" target="blank"><img src="https://img.shields.io/twitter/follow/samdoghor?color=%23111111&logo=twitter&style=for-the-badge" alt="samdoghor" /></a> </p> 
