@@ -15,7 +15,7 @@
 
 <br/> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samdoghor" alt="samdoghor" /></a> </p> <br/>
 
-- 🌱 I’m currently learning **Reactjs & AWS Machine Learning**
+- 🌱 I’m currently learning **ReactJS & ExpressJS**
 
 - 💬 Ask me about **Python**
 
