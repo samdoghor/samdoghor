@@ -18,5 +18,7 @@
 ## Github Cards
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=samdoghor&)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=samdoghor&show_icons=true&locale=en)
+
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=samdoghor&show_icons=true&locale=en&layout=compact)
