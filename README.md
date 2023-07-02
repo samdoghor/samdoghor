@@ -1,6 +1,6 @@
 # Hi there - marvo?👋🏿
 
-- 📫 How to reach me **talkto@samdoghor.com**
+- 📫 How to reach me **<talkto@samdoghor.com>**
 - ❤️ There is nothing I love to do better than `coding` 🌱
 
 ## Connect with me
